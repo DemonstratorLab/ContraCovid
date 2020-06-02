@@ -1,3 +1,5 @@
+![General Practicioner shield](GP_Shield.png)
+
 # Laser cut pattern
 The pattern is provided as a DXF file generated from the design file(s). The DXF file is already compensated for a kerf of 0.15mm, which is assumed to be typical for cutting (A)PET. However, the user is adviced to verify this assumption. 
 
