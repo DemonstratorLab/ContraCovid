@@ -3,8 +3,11 @@
 # ContraCovid
 Demonstrator Lab against SARS-CoV2
 
-# Empty
-This repository will be filled ASAP (25-05-2020)
+# Work in Progress
+This repository is a work in progress. It currently contains the minimum of files needed to get started producing face shields. More and better information, tools and other content will be added in the comming days. (02-06-2020)
+
+# Structure
+This repository currently contains only one project: Face-Shield. Please view the Face-Shield directory for more information. 
 
 # License
 This work is licensed under [CC BY-NC-SA 4.0][cc-by-nc-sa]  

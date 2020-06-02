@@ -1,7 +1,7 @@
 # Structure
 This repository is split into several directories. 
 
-## Parts
+### Parts
 The parts directory contains all parts you need to produce the actual face shield. Each part has it's own subdirectory. 
 Each part directory contains the DXF files and instructions to produce a part. This should be enough to create it. However, we also provide the original designs from which the DXF files were created. 
 
