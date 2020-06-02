@@ -1,3 +1,5 @@
+![Rubber band](rubber_band.png)
+
 # Rubber band
 The rubber band keeps the shield in place. It is in contact with skin and hair and as such, should be safe and comfortable to wear. 
 
